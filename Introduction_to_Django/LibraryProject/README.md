@@ -12,4 +12,3 @@ Since this project does not use a virtual environment, simply install Django glo
 
 ```bash
 pip install django
-```
