@@ -5,6 +5,9 @@
 **Python Command:**
 
 ```python
+from bookshelf.models import Book
+
+
 # 1. Fetch the object (using the NEW title)
 book = Book.objects.get(title="Nineteen Eighty-Four")
 
