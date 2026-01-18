@@ -1,4 +1,3 @@
-````markdown
 # Retrieve Operation
 
 **Goal:** Retrieve and display all attributes of the book just created.
@@ -15,6 +14,6 @@ print(f"Author: {book.author}")
 print(f"Year: {book.publication_year}")
 
 
-**Output:** # Details: 1984, George Orwell, 1949
 ```
-````
+
+**Output:** # Details: 1984, George Orwell, 1949

@@ -1,4 +1,3 @@
-````markdown
 # Delete Operation
 
 **Goal:** Delete the book created and confirm the deletion by trying to retrieve all books.
@@ -16,6 +15,6 @@ book.delete()
 all_books = Book.objects.all()
 print(all_books)
 
-**Output:** # <QuerySet []>
 ```
-````
+
+**Output:** # <QuerySet []>

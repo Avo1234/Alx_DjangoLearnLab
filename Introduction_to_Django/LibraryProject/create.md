@@ -12,6 +12,8 @@ book = Book.objects.create(title="1984", author="George Orwell", publication_yea
 print(book)
 
 
-**Output**
-# <Book: 1984 by George Orwell>
 ```
+
+**Output**
+
+# <Book: 1984 by George Orwell>
